@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1037006030542",
+    "project_id": "tukoshop-cd55b",
+    "storage_bucket": "tukoshop-cd55b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037006030542:android:025c0619f393807e03329f",
+        "android_client_info": {
+          "package_name": "com.example.tukoshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037006030542-amj872db8hlio5cnu89rmodrjljhq559.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tukoshop",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "1037006030542-1dkc093rb7e15np5rrf9u73lkvsllu59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7JayUXpyALX-rB8n3bt9itp02iYr4vrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037006030542-1dkc093rb7e15np5rrf9u73lkvsllu59.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1037006030542-dv5vjs3589bvrj3q55nlki8bbq5q5opj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tukoshop"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
